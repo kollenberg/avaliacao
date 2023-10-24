@@ -1,0 +1,21 @@
+body{
+    background:green ;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: red;
+}
+p{
+   text-align: center;
+   font-size: 30px;
+   color: red;
+}
+img{
+    width: 300px;
+    margin-left: 100px;
+}
+
+.cabecalho{
+    
+}
